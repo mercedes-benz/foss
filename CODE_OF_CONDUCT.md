@@ -11,7 +11,7 @@ The Daimler FOSS Code of Conduct applies to all FOSS community interactions with
 
 ## Behavior
 
-Participants are committed to making contributions and participation in FOSS communities a harassment-free culture and environment for everyone regardless of gender, sexual identity and orientation, religion, disability, ethnicity, socioeconomic status, nationality, age, level of experience, and education.
+Participants are committed to contribute and participate in FOSS communities in a harassment-free culture and environment for everyone regardless of gender, sexual identity and orientation, religion, disability, ethnicity, socioeconomic status, nationality, age, level of experience, and education.
 
 Examples for expected behavior to create a positive culture and environment:
 
