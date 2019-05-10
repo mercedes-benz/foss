@@ -1,0 +1,5 @@
+#!/bin/bash
+
+sed -i.bak -e "1s/^/\n\n\[Acting on behalf of Daimler TSS GmbH\]\(https:\/\/www.daimler-tss\.com\/de\/impressum\/\)\nAnd licensed under MIT/" $1
+
+
