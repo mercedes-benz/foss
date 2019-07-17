@@ -35,7 +35,7 @@ Examples for unacceptable behavior that will not be tolerated:
 
 ## Responsibilities
 
-By contributing and participating in Daimler-managed FOSS communities, external individuals and Daimler employees are obliged to comply with the Daimler FOSS Code of Conduct.  By contributing and participating in non-Daimler-managed (external) FOSS communities, Daimler employees are obliged to comply with the Daimler FOSS Code of Conduct as well.
+By contributing and participating in Daimler-managed FOSS communities, external individuals and Daimler employees are obliged to comply with the Daimler FOSS Code of Conduct. Contributors are obligated to respect internationally recognized human rights and to promote adherence to them. By contributing and participating in non-Daimler-managed (external) FOSS communities, Daimler employees are obliged to comply with the Daimler FOSS Code of Conduct as well.
 
 Daimler is responsible to define the values and put rules for proper behavior into practice and to take appropriate and corrective actions in any case of unacceptable behavior as per this FOSS Code of Conduct. In case of individuals violating the Daimler FOSS Code of Conduct, Daimler has the authority to reject, edit, or remove the contributions (e. g. comments, source code commits, and discussion entries) in Daimler-managed FOSS communities. In addition, Daimler may, but is not obliged to explain why the behavior of the individual negatively impacted other individuals and give a warning in public or in private. Furthermore Daimler is allowed to ban participants with inappropriate behavior temporarily or permanently.
 
