@@ -21,9 +21,9 @@ and
 
 MBition GmbH
 
-Dovestr. 1 
+<sub>Dovestr. 1<sub>
 
-10587 Berlin
+<sub>10587 Berlin<sub>
 
 (hereinafter “FOSS Co“)
 
