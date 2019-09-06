@@ -19,10 +19,9 @@ If you are a company, the following person is authorized to act on aforementione
 
 and
 
-Daimler TSS GmbH or MBition GmbH
-* [Address 1]
-* [Address 2]
-* [Address 3]
+MBition GmbH
+Dovestr. 1 
+10587 Berlin
 
 (hereinafter “FOSS Co“)
 
