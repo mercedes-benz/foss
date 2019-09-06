@@ -19,10 +19,9 @@ If you are a company, the following person is authorized to act on aforementione
 
 and
 
-Daimler TSS GmbH
-* [Address 1]
-* [Address 2]
-* [Address 3]
+Daimler TSS GmbH</br>
+Wilhelm-Runge-Straße 11</br>
+89081 Ulm/Germany
 
 (hereinafter “FOSS Co“)
 
