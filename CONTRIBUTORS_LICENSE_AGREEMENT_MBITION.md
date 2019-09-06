@@ -20,7 +20,9 @@ If you are a company, the following person is authorized to act on aforementione
 and
 
 MBition GmbH
+
 Dovestr. 1 
+
 10587 Berlin
 
 (hereinafter “FOSS Co“)
