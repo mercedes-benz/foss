@@ -1,6 +1,8 @@
 # Contributors License Agreement 
 Version 1.1, proprietary document Daimler Group.
 
+> In case of contributing to a Mercedes-Benz Mobile SDK (MBSDK) repository please use the prepared _CLA_ available on [link] and provide us with a signed scan of the _CLA_ to CLA-MBition@daimler.com.
+ 
 ## 0 CLA Parties
 
 This _Contributor_ License Agreement (**_“CLA”_**) is concluded by and between
@@ -36,7 +38,7 @@ and
 ## 1 Definitions
 Capitalized terms in _italics_ that are used in this _CLA_ shall have the following meaning:
 
-****“_Contribution_”** means any _Contributor’s Work of Authorship_, which the _Contributor_ submits to _FOSS Co_.
+**“_Contribution_”** means any _Contributor’s Work of Authorship_, which the _Contributor_ submits to _FOSS Co_.
 
 **“_FOSS License_”** means a license approved as open source license by the Open Source Initiative (https://opensource.org/licenses/), or other open source license terms as specified by _FOSS Co_ for the _FOSS Project_.
 
