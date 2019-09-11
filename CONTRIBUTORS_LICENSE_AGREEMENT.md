@@ -1,7 +1,7 @@
 # Contributors License Agreement 
 Version 1.1, proprietary document Daimler Group.
 
-> In case of contributing to a Mercedes-Benz Mobile SDK (MBSDK) repository please use the prepared _CLA_ available on [link] and provide us with a signed scan of the _CLA_ to CLA-MBition@daimler.com.
+> In case of contributing to a Mercedes-Benz Mobile SDK (MBSDK) repository please use the prepared _CLA_ "[2019-09-11_Daimler_FOSS_CLA_Mercedes-Benz_Mobile_SDK.pdf](./cla-templates/2019-09-11_Daimler_FOSS_CLA_Mercedes-Benz_Mobile_SDK.pdf)" and provide us with a signed scan of the _CLA_ to CLA-MBition@daimler.com.
  
 ## 0 CLA Parties
 
