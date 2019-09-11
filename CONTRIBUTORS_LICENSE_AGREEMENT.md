@@ -42,7 +42,7 @@ Capitalized terms in _italics_ that are used in this _CLA_ shall have the follow
 
 **“_FOSS License_”** means a license approved as open source license by the Open Source Initiative (https://opensource.org/licenses/), or other open source license terms as specified by _FOSS Co_ for the _FOSS Project_.
 
-**“_FOSS Project_”** means _FOSS Co’s_ free and open source projects https://github.com/Daimler, in which software and/or documentation is made available under a _FOSS License_ determined by _FOSS Co per repository_.
+**“_FOSS Project_”** means _FOSS Co’s_ free and open source projects https://github.com/Daimler, in which software and/or documentation is made available under a _FOSS License_ determined by _FOSS Co_ per repository.
 
 **“_Contributor’s Work of Authorship_”** means any work of authorship, such as but not limited to, software code, documentation, databases, or parts of the foregoing, including modifications or additions to software code or documentation made available in the _Project_, which entirely and independently has been developed, invented, designed or otherwise created by (i) the _Contributor_ itself, and/or (ii) third parties for and on behalf of the _Contributor_ (e.g. _Contributor_’s employees).
 
