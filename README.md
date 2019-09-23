@@ -4,6 +4,8 @@ Please read our [Code of Conduct](CODE_OF_CONDUCT.md) first, as it is our base f
 
 In this repository we offer general information for Daimler Group's Open Source projects, like the aforementioned [Code of Conduct](CODE_OF_CONDUCT.md) or further legal information.
 
+# Daimler FOSS Projects
+We have always been using open source software, now it's time to give back to the community. We contribute in FOSS Projects and also open source our own Software Products here on GitHub.com/daimler.  
 
 # FAQ
 ## I have a question or a remark about ...
