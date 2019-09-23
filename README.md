@@ -18,6 +18,10 @@ This component is used to define the pipeline concept and run the pipelines in J
 ## SecHub
 SecHub represents a mechanism to integrate diverse security products like static code analysis tools, web scanners and infrastructure scanners by just using one simple API/client. 
 
+## Namespace Provisioner
+The Namespace Provisioner is a Kubernetes Operator that facilitates the management of multiple namespaces on kubernetes clusters.
+You can simply annotate a Kubernetes namespace and non-application specific resources like `ImagePullSecrets`, `NetworkPolicies`, `Roles` or `RoleBindings` are automatically deployed to prepare the namespace for application deployment and testing.
+
 # FAQ
 ## I have a question or a remark about ...
 
