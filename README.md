@@ -15,6 +15,9 @@ The underlying architecture is reliable and includes worldwide scalable componen
 ## Pipeliner
 This component is used to define the pipeline concept and run the pipelines in Jenkins. It processes user inputs to pipelines, configures and executes the pipeline and provides utility functions. It is writted in Groovy and follows the structure for a Jenkins Shared Library.
 
+## SecHub
+SecHub represents a mechanism to integrate diverse security products like static code analysis tools, web scanners and infrastructure scanners by just using one simple API/client. 
+
 # FAQ
 ## I have a question or a remark about ...
 
