@@ -7,6 +7,11 @@ In this repository we offer general information for Daimler Group's Open Source 
 # Daimler FOSS Projects
 We have always been using open source software, now it's time to give back to the community. We contribute in FOSS Projects and also open source our own Software Products here on GitHub.com/daimler.  
 
+## Mercedes-Benz Mobile SDK
+The Mercedes-Benz Mobile SDK (Software Development Kit) encapsulates customer and car data and vehicle functions needed to develop mobile apps for Mercedes Benz cars, which are enabled for Mercedes me services.
+In addition, the SDK provides basic functions like registration, password-less login, vehicle assignment and service activation for all SDK app developers and thus helps them to concentrate on the main purpose and business value of the app.
+The underlying architecture is reliable and includes worldwide scalable components for building your own Mercedes-Benz Mobile app.
+
 # FAQ
 ## I have a question or a remark about ...
 
