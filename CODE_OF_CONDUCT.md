@@ -5,13 +5,13 @@
 
 The Daimler Free and Open Source Software (FOSS) Code of Conduct defines the proper behavior and the responsibilities for contributing and participating in FOSS communities to facilitate an open and welcoming culture that encourages active participation, learning, and constructive FOSS community interaction.
 
-The Daimler FOSS Code of Conduct is created based on the [Daimler Integrity Code](https://www.daimler.com/company/corporate-governance/compliance/principles.html) and extends and details the Daimler Integrity Code with regard to the proper behavior for contribution and participation in FOSS communities. The Daimler FOSS Code of Conduct does not restrict the Daimler Integrity Code in any way.
+The Daimler FOSS Code of Conduct is created based on the [Daimler Integrity Code](https://www.daimler.com/documents/sustainability/integrity/daimler-integritycode.pdf) and extends and details the Daimler Integrity Code with regard to the proper behavior for contribution and participation in FOSS communities. The Daimler FOSS Code of Conduct does not restrict the Daimler Integrity Code in any way.
 
 The Daimler FOSS Code of Conduct applies to all FOSS community interactions with Daimler, of Daimler, within Daimler and within the public, whenever an individual is part of or representing a FOSS community.
 
 ## Behavior
 
-Participants are committed to contribute and participate in FOSS communities in a harassment-free culture and environment for everyone regardless of gender, sexual identity and orientation, religion, disability, ethnicity, socioeconomic status, nationality, age, level of experience, and education.
+Participants are committed to contribute and participate in FOSS communities in a harassment-free culture and environment for everyone regardless of gender, sexual identity and orientation, religion, disability, illness, ethnicity, socioeconomic status, nationality, age, level of experience, and education.
 
 Examples for expected behavior to create a positive culture and environment:
 
