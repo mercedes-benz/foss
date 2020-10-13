@@ -1,8 +1,5 @@
 # Legal Imprint
 
-This file contains Legal Disclaimers for linking in Issues and Pull Requests.
-
-
 ## [Company Name]
 
 [Company Name]
