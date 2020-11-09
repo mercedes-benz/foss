@@ -66,3 +66,16 @@ Vorstand/Board of Management: Franz Reiner (Chairman), Eefje Dikker, Peter Henn,
 Vorsitzender des Aufsichtsrats/Chairman of the Supervisory Board: Harald Wilhelm
 
 <https://www.daimler-mobility.com/en/legal-notice.html/>
+
+## Daimler Truck AG
+
+Mercedesstraße 120
+70372 Stuttgart, Germany
+Phone.: +49 711 17 0
+E-mail: contact@daimler-truck.com
+
+Sitz und Registergericht/Domicile and Court of Registry: Stuttgart, HRB-Nr./Commercial Register No.: 762884  
+Vorstand/Board of Management: Martin Daum (Chairman), Sven Ennerst, Jochen Götz, Jürgen Hartwig, Roger Nielsen, Hartmut Schick  
+Vorsitzender des Aufsichtsrats/Chairman of the Supervisory Board: Ola Källenius
+
+<https://www.daimler-truck.com/en//>
