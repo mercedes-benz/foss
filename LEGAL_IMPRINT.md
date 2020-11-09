@@ -41,3 +41,16 @@ Vorstand/Board of Management: Ola Källenius (Chairman), Martin Daum, Renata Jun
 Vorsitzender des Aufsichtsrats/Chairman of the Supervisory Board: Manfred Bischoff
 
 <https://www.daimler.com/provider/>
+
+## Mercedes-Benz AG
+
+Mercedesstraße 120
+D-70372 Stuttgart, Germany  
+Tel.: +49 7 11 17-0
+E-Mail: dialog.mb@daimler.com
+
+Sitz und Registergericht/Domicile and Court of Registry: Stuttgart, HRB-Nr./Commercial Register No.: 762873  
+Vorstand/Board of Management: Ola Källenius (Vorsitzender), Jörg Burzer, Renata Jungo Brüngger, Sajjad Khan, Sabine Kohleisen, Harald Wilhelm, Markus Schäfer, Britta Seeger
+Vorsitzender des Aufsichtsrats/Chairman of the Supervisory Board: Manfred Bischoff
+
+<https://www.mercedes-benz.com/de/unternehmen/>
