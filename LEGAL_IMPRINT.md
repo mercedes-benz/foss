@@ -45,7 +45,7 @@ Vorsitzender des Aufsichtsrats/Chairman of the Supervisory Board: Manfred Bischo
 ## Mercedes-Benz AG
 
 Mercedesstraße 120
-D-70372 Stuttgart, Germany  
+D-70372 Stuttgart, Germany
 Tel.: +49 7 11 17-0
 E-Mail: dialog.mb@daimler.com
 
@@ -54,3 +54,15 @@ Vorstand/Board of Management: Ola Källenius (Vorsitzender), Jörg Burzer, Renat
 Vorsitzender des Aufsichtsrats/Chairman of the Supervisory Board: Manfred Bischoff
 
 <https://www.mercedes-benz.com/de/unternehmen/>
+
+## Daimler Mobility AG
+
+Siemensstr. 7
+70469 Stuttgart,Germany
+E-Mail: mobility@daimler.com
+
+Sitz und Registergericht/Domicile and Court of Registry: Stuttgart, HRB-Nr./Commercial Register No.: 737788  
+Vorstand/Board of Management: Franz Reiner (Chairman), Eefje Dikker, Peter Henn, Jörg Lamparter, Yvonne Rosslenbroich, Stephan Unger, Peter Zieringer  
+Vorsitzender des Aufsichtsrats/Chairman of the Supervisory Board: Harald Wilhelm
+
+<https://www.daimler-mobility.com/en/legal-notice.html/>
