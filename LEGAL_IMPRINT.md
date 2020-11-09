@@ -58,7 +58,7 @@ Vorsitzender des Aufsichtsrats/Chairman of the Supervisory Board: Manfred Bischo
 ## Daimler Mobility AG  
 
 Siemensstr. 7  
-70469 Stuttgart,Germany  
+70469 Stuttgart, Germany  
 E-Mail: mobility@daimler.com  
 
 Sitz und Registergericht/Domicile and Court of Registry: Stuttgart, HRB-Nr./Commercial Register No.: 737788   
@@ -78,4 +78,4 @@ Sitz und Registergericht/Domicile and Court of Registry: Stuttgart, HRB-Nr./Comm
 Vorstand/Board of Management: Martin Daum (Chairman), Sven Ennerst, Jochen Götz, Jürgen Hartwig, Roger Nielsen, Hartmut Schick  
 Vorsitzender des Aufsichtsrats/Chairman of the Supervisory Board: Ola Källenius  
 
-<https://www.daimler-truck.com/en//>
+<https://www.daimler-truck.com/en/>
