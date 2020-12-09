@@ -79,3 +79,17 @@ Vorstand/Board of Management: Martin Daum (Chairman), Sven Ennerst, Jochen Götz
 Vorsitzender des Aufsichtsrats/Chairman of the Supervisory Board: Ola Källenius  
 
 <https://www.daimler-truck.com/en/>
+
+
+## Daimler Protics GmbH
+
+Daimler Protics GmbH
+Gutenbergstraße 19
+70771 Leinfelden-Echterdingen, Germany
+Phone.: +497111759660
+E-Mail: info-daimler-protics@daimler.com
+
+Sitz und Registergericht/Domicile and Register Court: Stuttgart, HRB-Nr./Commercial Register No.: 23635  
+Geschäftsführung/Management: Jonas von Malottki (CEO), Antonio Del Mondo (CFO)
+
+<https://www.daimler-protics.com/legal/impressum.html>
