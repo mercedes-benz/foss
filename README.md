@@ -25,7 +25,7 @@ You can simply annotate a Kubernetes namespace and non-application specific reso
 # FAQ
 ## I have a question or a remark about ...
 
-We really want to learn from you and are happy to hear your thoughts and questions at foss@daimler.com or open an issue in this repository.
+We really want to learn from you and are happy to hear your thoughts and questions at <foss@daimler.com> or start an discussion in this repository.
 
 
 # Provider Information

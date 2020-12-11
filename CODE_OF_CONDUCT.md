@@ -42,6 +42,6 @@ Daimler is responsible to define the values and put rules for proper behavior in
 
 ## Enforcement
 
-To put the values for proper behavior into practice, the Daimler FOSS Code of Conduct has to be enforced. Any Daimler FOSS Code of Conduct irregularity (e. g. through unacceptable behavior) shall be reported to foss@daimler.com. After reporting a Daimler FOSS Code of Conduct irregularity, the complaint will be evaluated and appropriate action will be taken if deemed necessary. The confidentiality with regard to the reporter of the Daimler FOSS Code of Conduct irregularity is ensured by Daimler at any time.
+To put the values for proper behavior into practice, the Daimler FOSS Code of Conduct has to be enforced. Any Daimler FOSS Code of Conduct irregularity (e. g. through unacceptable behavior) shall be reported to <foss@daimler.com>. After reporting a Daimler FOSS Code of Conduct irregularity, the complaint will be evaluated and appropriate action will be taken if deemed necessary. The confidentiality with regard to the reporter of the Daimler FOSS Code of Conduct irregularity is ensured by Daimler at any time.
 
 If you have concrete indications of major risk violations in connection with the Daimler Group, you can always contact the [Whistleblower System BPO](https://www.daimler.com/company/corporate-governance/compliance/bpo.html) directly.
