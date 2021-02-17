@@ -27,7 +27,7 @@ E-Mail: info_mbition@daimler.com
 Sitz und Registergericht/Domicile and Court of Registry: Amtsgericht Charlottenburg, HRB-Nr./Commercial Register: HRB 188241 B   
 Geschäftsführung/Management: Gregor Zetsche (Vorsitzender/Chairperson), Falco Gottwald
 
-<https://mbition.io/en/home/#imprint-privacy>
+<https://mbition.io/imprint/>
 
 ## Daimler AG
 
