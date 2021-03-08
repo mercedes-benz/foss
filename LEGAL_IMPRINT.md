@@ -13,7 +13,7 @@ Fax: +497315056599
 E-Mail: tss@daimler.com  
 
 Sitz und Registergericht/Domicile and Register Court: Ulm, HRB-Nr./Commercial Register No.: 3844  
-Geschäftsführung/Management: Martin Haselbach (Vorsitzender/Chairperson)
+Geschäftsführung/Management: Martin Haselbach (Vorsitzender/Chairperson), Isabelle Krautwald
 
 <https://www.daimler-tss.com/en/imprint/>
 
