@@ -53,7 +53,7 @@ Sitz und Registergericht/Domicile and Court of Registry: Stuttgart, HRB-Nr./Comm
 Vorstand/Board of Management: Ola Källenius (Vorsitzender), Jörg Burzer, Renata Jungo Brüngger, Sajjad Khan, Sabine Kohleisen, Harald Wilhelm, Markus Schäfer, Britta Seeger  
 Vorsitzender des Aufsichtsrats/Chairman of the Supervisory Board: Manfred Bischoff  
 
-<https://www.mercedes-benz.com/de/unternehmen/>
+<https://www.mercedes-benz.com/en/providerprivacy-statement/provider/>
 
 ## Daimler Mobility AG  
 
@@ -65,7 +65,7 @@ Sitz und Registergericht/Domicile and Court of Registry: Stuttgart, HRB-Nr./Comm
 Vorstand/Board of Management: Franz Reiner (Chairman), Eefje Dikker, Peter Henn, Jörg Lamparter, Yvonne Rosslenbroich, Stephan Unger, Peter Zieringer    
 Vorsitzender des Aufsichtsrats/Chairman of the Supervisory Board: Harald Wilhelm  
 
-<https://www.daimler-mobility.com/en/legal-notice.html/>
+<https://www.daimler-mobility.com/en/legal-notice.html>
 
 ## Daimler Truck AG
 
@@ -78,7 +78,7 @@ Sitz und Registergericht/Domicile and Court of Registry: Stuttgart, HRB-Nr./Comm
 Vorstand/Board of Management: Martin Daum (Chairman), Sven Ennerst, Jochen Götz, Jürgen Hartwig, Roger Nielsen, Hartmut Schick  
 Vorsitzender des Aufsichtsrats/Chairman of the Supervisory Board: Ola Källenius  
 
-<https://www.daimler-truck.com/en/>
+<https://www.daimler-truck.com/provider/>
 
 
 ## Daimler Protics GmbH
