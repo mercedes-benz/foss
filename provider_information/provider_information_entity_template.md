@@ -1,4 +1,4 @@
-# Legal Imprint
+# Provider Information
 
 ## [Company Name]
 

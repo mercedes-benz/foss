@@ -1,4 +1,4 @@
-# Legal Imprint
+# Provider Information
 
 This file contains Legal Disclaimers for linking in Issues and Pull Requests.
 
