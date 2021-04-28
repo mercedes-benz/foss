@@ -1,6 +1,6 @@
 # Provider Information
 
-This file contains Legal Disclaimers for linking in Issues and Pull Requests.
+This file contains provider information for linking in Issues and Pull Requests.
 
 
 ## Daimler TSS GmbH
