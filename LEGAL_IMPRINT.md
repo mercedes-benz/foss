@@ -1,7 +1,11 @@
 # Legal Imprint
 
-This file contains Legal Disclaimers for linking in Issues and Pull Requests.
+**Please find the current provider information with this [Link](https://github.com/Daimler/daimler-foss/blob/master/PROVIDER_INFORMATION.md).** 
 
+**The below content will not be maintained any more.**
+
+
+This file contains Legal Disclaimers for linking in Issues and Pull Requests.
 
 ## Daimler TSS GmbH
 
