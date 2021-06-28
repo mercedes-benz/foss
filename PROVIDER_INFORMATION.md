@@ -83,13 +83,27 @@ Vorsitzender des Aufsichtsrats/Chairman of the Supervisory Board: Ola Källenius
 
 ## Daimler Protics GmbH
 
-Daimler Protics GmbH
-Gutenbergstraße 19
-70771 Leinfelden-Echterdingen, Germany
-Phone.: +497111759660
-E-Mail: info-daimler-protics@daimler.com
+Daimler Protics GmbH   
+Gutenbergstraße 19   
+70771 Leinfelden-Echterdingen, Germany   
+Phone.: +497111759660   
+E-Mail: info-daimler-protics@daimler.com   
 
 Sitz und Registergericht/Domicile and Register Court: Stuttgart, HRB-Nr./Commercial Register No.: 23635  
 Geschäftsführung/Management: Jonas von Malottki (CEO), Antonio Del Mondo (CFO)
 
 <https://www.daimler-protics.com/legal/impressum.html>
+
+## Mercedes-Benz.io GmbH
+
+
+Mercedes-Benz.io GmbH   
+Breitscheidstraße 10  
+70174 Stuttgart (Germany)  
+Phone: +49(0)711184230    
+E-Mail: info@mercedes-benz.io  
+
+Sitz und Registergericht/Domicile and Register Court: Amtsgericht Stuttgart HRB-Nr./Commercial Register No.: 752256
+Geschäftsführung/Management: Silvia Bechmann (CEO), Jannis Jütting (CFO)
+
+https://www.mercedes-benz.io/imprint/
