@@ -107,3 +107,14 @@ Sitz und Registergericht/Domicile and Register Court: Amtsgericht Stuttgart HRB-
 Geschäftsführung/Management: Silvia Bechmann (CEO), Jannis Jütting (CFO)
 
 https://www.mercedes-benz.io/imprint/
+
+## Mitsubishi Fuso Truck and Bus Corporation
+
+Mitsubishi Fuso Truck and Bus Corporation  
+10 Ohkura-cho, Nakahara-ku, Kawasaki-shi, Kanagawa, 211-8522 Japan  
+E-Mail: FUSO_Website@daimler.com
+
+Commercial Register: 0200-01-078696  
+Represented by: Kazuo Matsunaga (Chairman), Hartmut Schick (CEO), Hetal Laligi (CFO)
+
+https://www.mitsubishi-fuso.com/provider-privacy-statement/
