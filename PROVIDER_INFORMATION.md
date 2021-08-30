@@ -90,7 +90,7 @@ Phone.: +497111759660
 E-Mail: info-daimler-protics@daimler.com   
 
 Sitz und Registergericht/Domicile and Register Court: Stuttgart, HRB-Nr./Commercial Register No.: 23635  
-Geschäftsführung/Management: Jonas von Malottki (CEO), Antonio Del Mondo (CFO)
+Geschäftsführung/Management: Kai Fischer (CEO), Antonio Del Mondo (CFO)
 
 <https://www.daimler-protics.com/legal/impressum.html>
 
