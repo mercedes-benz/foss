@@ -94,8 +94,21 @@ Geschäftsführung/Management: Kai Fischer (CEO), Antonio Del Mondo (CFO)
 
 <https://www.daimler-protics.com/legal/impressum.html>
 
-## Mercedes-Benz.io GmbH
+## Mercedes-Benz Connectivity Services GmbH
 
+Mercedes-Benz Connectivity Services GmbH
+Plieninger Straße 150
+70567 Stuttgart
+Deutschland/Germany
+
+Tel: +49 711 17 39012
+connect-business@daimler.com
+
+Geschäftsführung/Management: Sten Rauch, Marcus Eisenhardt
+
+<https://www.connect-business.net/de-de/p/anbieter-datenschutz-1063#anbieter>
+
+## Mercedes-Benz.io GmbH
 
 Mercedes-Benz.io GmbH   
 Breitscheidstraße 10  
