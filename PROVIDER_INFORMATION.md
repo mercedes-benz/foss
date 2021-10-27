@@ -104,7 +104,7 @@ Phone: +49(0)711184230
 E-Mail: info@mercedes-benz.io  
 
 Sitz und Registergericht/Domicile and Register Court: Amtsgericht Stuttgart HRB-Nr./Commercial Register No.: 752256
-Geschäftsführung/Management: Silvia Bechmann (CEO), Jannis Jütting (CFO)
+Geschäftsführung/Management: Axel Weichert (CEO), Jannis Jütting (CFO)
 
 https://www.mercedes-benz.io/imprint/
 
