@@ -100,10 +100,10 @@ Mercedes-Benz Connectivity Services GmbH
 Plieninger Straße 150
 70567 Stuttgart
 Deutschland/Germany
-
 Tel: +49 711 17 39012
 connect-business@daimler.com
 
+Sitz und Registergericht/Domicile and Court of Registry: Stuttgart HRB-Nr./Commercial Register No.: 727792
 Geschäftsführung/Management: Sten Rauch, Marcus Eisenhardt
 
 <https://www.connect-business.net/de-de/p/anbieter-datenschutz-1063#anbieter>
