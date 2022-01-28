@@ -67,20 +67,6 @@ Vorsitzender des Aufsichtsrats/Chairman of the Supervisory Board: Harald Wilhelm
 
 <https://www.daimler-mobility.com/en/legal-notice.html>
 
-## Daimler Truck AG
-
-Mercedesstraße 120  
-70372 Stuttgart, Germany  
-Phone.: +49 711 17 0  
-E-mail: contact@daimler-truck.com  
-
-Sitz und Registergericht/Domicile and Court of Registry: Stuttgart, HRB-Nr./Commercial Register No.: 762884  
-Vorstand/Board of Management: Martin Daum (Chairman), Sven Ennerst, Jochen Götz, Jürgen Hartwig, Roger Nielsen, Hartmut Schick  
-Vorsitzender des Aufsichtsrats/Chairman of the Supervisory Board: Ola Källenius  
-
-<https://www.daimler-truck.com/provider/>
-
-
 ## Daimler Protics GmbH
 
 Daimler Protics GmbH   
@@ -120,14 +106,3 @@ Sitz und Registergericht/Domicile and Register Court: Amtsgericht Stuttgart HRB-
 Geschäftsführung/Management: Axel Weichert (CEO), Jannis Jütting (CFO)
 
 https://www.mercedes-benz.io/imprint/
-
-## Mitsubishi Fuso Truck and Bus Corporation
-
-Mitsubishi Fuso Truck and Bus Corporation  
-10 Ohkura-cho, Nakahara-ku, Kawasaki-shi, Kanagawa, 211-8522 Japan  
-E-Mail: FUSO_Website@daimler.com
-
-Commercial Register: 0200-01-078696  
-Represented by: Kazuo Matsunaga (Chairman), Hartmut Schick (CEO), Hetal Laligi (CFO)
-
-https://www.mitsubishi-fuso.com/provider-privacy-statement/
