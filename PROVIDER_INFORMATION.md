@@ -31,11 +31,11 @@ Geschäftsführung/Management: Gregor Zetsche (Vorsitzender/Chairperson), Falco 
 
 ## Mercedes-Benz Group AG
 
-Mercedesstraße 120
-70372 Stuttgart
-Germany
-Phone.: +49 711 17 0
-E-mail: dialog@mercedes-benz.com
+Mercedesstraße 120  
+70372 Stuttgart   
+Germany   
+Phone.: +49 711 17 0   
+E-mail: dialog@mercedes-benz.com  
 
 Represented by the Board of Management:
 Ola Källenius (Chairman), Jörg Burzer, Renata Jungo Brüngger, Sabine Kohleisen, Markus Schäfer, Britta Seeger, Hubertus Troska, Harald Wilhelm
@@ -48,11 +48,11 @@ Commercial Register Stuttgart, No. HRB 19360
 
 ## Mercedes-Benz AG
 
-Mercedesstraße 120
-70372 Stuttgart
-Germany
-Phone: +49 7 11 17-0
-E-Mail: dialog@mercedes-benz.com
+Mercedesstraße 120  
+70372 Stuttgart  
+Germany  
+Phone: +49 7 11 17-0  
+E-Mail: dialog@mercedes-benz.com  
 
 Represented by the Board of Management:
 Ola Källenius (Chairman), Jörg Burzer, Renata Jungo Brüngger, Sabine Kohleisen, Markus Schäfer, Britta Seeger, Hubertus Troska, Harald Wilhelm
@@ -65,12 +65,11 @@ Court of Registry: Stuttgart; commercial register no. 762873
 
 ## Mercedes-Benz Mobility AG
 
-Siemensstr. 7
-70469 Stuttgart
-Germany
-
-Phone: +49 7 11 17-0
-E-Mail: mobility@mercedes-benz.com
+Siemensstr. 7  
+70469 Stuttgart  
+Germany  
+Phone: +49 7 11 17-0  
+E-Mail: mobility@mercedes-benz.com  
 
 Represented by the Board of Management:
 Franz Reiner (Chairman), Eefje Dikker, Peter Henn, Jörg Lamparter, Yvonne Rosslenbroich, Gerrit-Michael Duelks, Peter Zieringer
