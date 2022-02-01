@@ -29,43 +29,57 @@ Geschäftsführung/Management: Gregor Zetsche (Vorsitzender/Chairperson), Falco 
 
 <https://mbition.io/imprint/>
 
-## Daimler AG
+## Mercedes-Benz Group AG
 
-Mercedesstraße 137  
-70327 Stuttgart, Germany  
-Phone.: +49711170  
-E-Mail: dialog@daimler.com  
+Mercedesstraße 120
+70372 Stuttgart
+Germany
+Phone.: +49 711 17 0
+E-mail: dialog@mercedes-benz.com
 
-Sitz und Registergericht/Domicile and Court of Registry: Stuttgart, HRB-Nr./Commercial Register No.: 19360  
-Vorstand/Board of Management: Ola Källenius (Chairman), Martin Daum, Renata Jungo Brüngger, Wilfried Porth, Markus Schäfer, Britta Seeger, Hubertus Troska, Harald Wilhelm  
-Vorsitzender des Aufsichtsrats/Chairman of the Supervisory Board: Bernd Pischetsrieder
+Represented by the Board of Management:
+Ola Källenius (Chairman), Jörg Burzer, Renata Jungo Brüngger, Sabine Kohleisen, Markus Schäfer, Britta Seeger, Hubertus Troska, Harald Wilhelm
 
-<https://www.daimler.com/provider/>
+Chairman of the Supervisory Board: Bernd Pischetsrieder
+
+Commercial Register Stuttgart, No. HRB 19360
+
+<https://group.mercedes-benz.com/provider/>
 
 ## Mercedes-Benz AG
 
-Mercedesstraße 120  
-D-70372 Stuttgart, Germany  
-Tel.: +49 7 11 17-0  
-E-Mail: dialog.mb@daimler.com  
+Mercedesstraße 120
+70372 Stuttgart
+Germany
+Phone: +49 7 11 17-0
+E-Mail: dialog@mercedes-benz.com
 
-Sitz und Registergericht/Domicile and Court of Registry: Stuttgart, HRB-Nr./Commercial Register No.: 762873  
-Vorstand/Board of Management: Ola Källenius (Vorsitzender), Jörg Burzer, Renata Jungo Brüngger, Sajjad Khan, Sabine Kohleisen, Harald Wilhelm, Markus Schäfer, Britta Seeger  
-Vorsitzender des Aufsichtsrats/Chairman of the Supervisory Board: Bernd Pischetsrieder  
+Represented by the Board of Management:
+Ola Källenius (Chairman), Jörg Burzer, Renata Jungo Brüngger, Sabine Kohleisen, Markus Schäfer, Britta Seeger, Hubertus Troska, Harald Wilhelm
 
-<https://www.mercedes-benz.com/en/providerprivacy-statement/provider/>
+Chairman of the Supervisory Board: Bernd Pischetsrieder
 
-## Daimler Mobility AG  
+Court of Registry: Stuttgart; commercial register no. 762873
 
-Siemensstr. 7  
-70469 Stuttgart, Germany  
-E-Mail: mobility@daimler.com  
+<https://group.mercedes-benz.com/provider/>
 
-Sitz und Registergericht/Domicile and Court of Registry: Stuttgart, HRB-Nr./Commercial Register No.: 737788   
-Vorstand/Board of Management: Franz Reiner (Chairman), Eefje Dikker, Peter Henn, Jörg Lamparter, Yvonne Rosslenbroich, Stephan Unger, Peter Zieringer    
-Vorsitzender des Aufsichtsrats/Chairman of the Supervisory Board: Harald Wilhelm  
+## Mercedes-Benz Mobility AG
 
-<https://www.daimler-mobility.com/en/legal-notice.html>
+Siemensstr. 7
+70469 Stuttgart
+Germany
+
+Phone: +49 7 11 17-0
+E-Mail: mobility@mercedes-benz.com
+
+Represented by the Board of Management:
+Franz Reiner (Chairman), Eefje Dikker, Peter Henn, Jörg Lamparter, Yvonne Rosslenbroich, Gerrit-Michael Duelks, Peter Zieringer
+
+Chairman of the Supervisory Board: Harald Wilhelm
+
+Court of Registry: Stuttgart; commercial register no. 737788
+
+<https://www.mercedes-benz-mobility.com/en/legal-notice.html>
 
 ## Daimler Protics GmbH
 
