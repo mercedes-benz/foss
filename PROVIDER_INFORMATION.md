@@ -29,57 +29,56 @@ Geschäftsführung/Management: Gregor Zetsche (Vorsitzender/Chairperson), Falco 
 
 <https://mbition.io/imprint/>
 
-## Daimler AG
+## Mercedes-Benz Group AG
 
-Mercedesstraße 137  
-70327 Stuttgart, Germany  
-Phone.: +49711170  
-E-Mail: dialog@daimler.com  
+Mercedesstraße 120  
+70372 Stuttgart   
+Germany   
+Phone.: +49 711 17 0   
+E-mail: dialog@mercedes-benz.com  
 
-Sitz und Registergericht/Domicile and Court of Registry: Stuttgart, HRB-Nr./Commercial Register No.: 19360  
-Vorstand/Board of Management: Ola Källenius (Chairman), Martin Daum, Renata Jungo Brüngger, Wilfried Porth, Markus Schäfer, Britta Seeger, Hubertus Troska, Harald Wilhelm  
-Vorsitzender des Aufsichtsrats/Chairman of the Supervisory Board: Bernd Pischetsrieder
+Represented by the Board of Management:
+Ola Källenius (Chairman), Jörg Burzer, Renata Jungo Brüngger, Sabine Kohleisen, Markus Schäfer, Britta Seeger, Hubertus Troska, Harald Wilhelm
 
-<https://www.daimler.com/provider/>
+Chairman of the Supervisory Board: Bernd Pischetsrieder
+
+Commercial Register Stuttgart, No. HRB 19360
+
+<https://group.mercedes-benz.com/provider/>
 
 ## Mercedes-Benz AG
 
 Mercedesstraße 120  
-D-70372 Stuttgart, Germany  
-Tel.: +49 7 11 17-0  
-E-Mail: dialog.mb@daimler.com  
+70372 Stuttgart  
+Germany  
+Phone: +49 7 11 17-0  
+E-Mail: dialog@mercedes-benz.com  
 
-Sitz und Registergericht/Domicile and Court of Registry: Stuttgart, HRB-Nr./Commercial Register No.: 762873  
-Vorstand/Board of Management: Ola Källenius (Vorsitzender), Jörg Burzer, Renata Jungo Brüngger, Sajjad Khan, Sabine Kohleisen, Harald Wilhelm, Markus Schäfer, Britta Seeger  
-Vorsitzender des Aufsichtsrats/Chairman of the Supervisory Board: Bernd Pischetsrieder  
+Represented by the Board of Management:
+Ola Källenius (Chairman), Jörg Burzer, Renata Jungo Brüngger, Sabine Kohleisen, Markus Schäfer, Britta Seeger, Hubertus Troska, Harald Wilhelm
 
-<https://www.mercedes-benz.com/en/providerprivacy-statement/provider/>
+Chairman of the Supervisory Board: Bernd Pischetsrieder
 
-## Daimler Mobility AG  
+Court of Registry: Stuttgart; commercial register no. 762873
+
+<https://group.mercedes-benz.com/provider/>
+
+## Mercedes-Benz Mobility AG
 
 Siemensstr. 7  
-70469 Stuttgart, Germany  
-E-Mail: mobility@daimler.com  
+70469 Stuttgart  
+Germany  
+Phone: +49 7 11 17-0  
+E-Mail: mobility@mercedes-benz.com  
 
-Sitz und Registergericht/Domicile and Court of Registry: Stuttgart, HRB-Nr./Commercial Register No.: 737788   
-Vorstand/Board of Management: Franz Reiner (Chairman), Eefje Dikker, Peter Henn, Jörg Lamparter, Yvonne Rosslenbroich, Stephan Unger, Peter Zieringer    
-Vorsitzender des Aufsichtsrats/Chairman of the Supervisory Board: Harald Wilhelm  
+Represented by the Board of Management:
+Franz Reiner (Chairman), Eefje Dikker, Peter Henn, Jörg Lamparter, Yvonne Rosslenbroich, Gerrit-Michael Duelks, Peter Zieringer
 
-<https://www.daimler-mobility.com/en/legal-notice.html>
+Chairman of the Supervisory Board: Harald Wilhelm
 
-## Daimler Truck AG
+Court of Registry: Stuttgart; commercial register no. 737788
 
-Mercedesstraße 120  
-70372 Stuttgart, Germany  
-Phone.: +49 711 17 0  
-E-mail: contact@daimler-truck.com  
-
-Sitz und Registergericht/Domicile and Court of Registry: Stuttgart, HRB-Nr./Commercial Register No.: 762884  
-Vorstand/Board of Management: Martin Daum (Chairman), Sven Ennerst, Jochen Götz, Jürgen Hartwig, Roger Nielsen, Hartmut Schick  
-Vorsitzender des Aufsichtsrats/Chairman of the Supervisory Board: Ola Källenius  
-
-<https://www.daimler-truck.com/provider/>
-
+<https://www.mercedes-benz-mobility.com/en/legal-notice.html>
 
 ## Daimler Protics GmbH
 
@@ -120,14 +119,3 @@ Sitz und Registergericht/Domicile and Register Court: Amtsgericht Stuttgart HRB-
 Geschäftsführung/Management: Axel Weichert (CEO), Jannis Jütting (CFO)
 
 https://www.mercedes-benz.io/imprint/
-
-## Mitsubishi Fuso Truck and Bus Corporation
-
-Mitsubishi Fuso Truck and Bus Corporation  
-10 Ohkura-cho, Nakahara-ku, Kawasaki-shi, Kanagawa, 211-8522 Japan  
-E-Mail: FUSO_Website@daimler.com
-
-Commercial Register: 0200-01-078696  
-Represented by: Kazuo Matsunaga (Chairman), Hartmut Schick (CEO), Hetal Laligi (CFO)
-
-https://www.mitsubishi-fuso.com/provider-privacy-statement/
