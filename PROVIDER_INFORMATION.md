@@ -25,7 +25,7 @@ Dovestr. 1
 E-Mail: info_mbition@daimler.com  
 
 Sitz und Registergericht/Domicile and Court of Registry: Amtsgericht Charlottenburg, HRB-Nr./Commercial Register: HRB 188241 B   
-Geschäftsführung/Management: Gregor Zetsche (Vorsitzender/Chairperson), Falco Gottwald
+Geschäftsführung/Management: Frank Preidel
 
 <https://mbition.io/imprint/>
 
