@@ -1,5 +1,5 @@
 # Contributors License Agreement 
-Version 1.1, proprietary document Daimler Group.
+Version 1.2, proprietary document Mercedes-Benz Group.
 
 >**Contributions** to a **Mercedes-Benz Mobile SDK (MBSDK) repository**: please sign the Mercedes-Benz Mobile SDK CLA "[2019-09-11_Daimler_FOSS_CLA_Mercedes-Benz_Mobile_SDK.pdf](./cla/2019-09-11_Daimler_FOSS_CLA_Mercedes-Benz_Mobile_SDK.pdf)" and send a scan of the CLA to CLA-MBition@daimler.com.
 >
@@ -18,7 +18,7 @@ Address:
 
 E-Mail:
 
-If you are a company, the following person is authorized to act on aforementioned company’s behalf in connection with the _FOSS Project_: [name, function]
+If you contribute as a company, the following person is authorized to act on aforementioned company’s behalf in connection with the _FOSS Project_: [name, function]
 
 (hereinafter **_“Contributor“_**)
 
@@ -43,7 +43,7 @@ Capitalized terms in _italics_ that are used in this _CLA_ shall have the follow
 
 **“_FOSS License_”** means a license approved as open source license by the Open Source Initiative (https://opensource.org/licenses/), or other open source license terms as specified by _FOSS Co_ for the _FOSS Project_.
 
-**“_FOSS Project_”** means _FOSS Co’s_ free and open source projects https://github.com/Daimler, in which software and/or documentation is made available under a _FOSS License_ determined by _FOSS Co_ per repository.
+**“_FOSS Project_”** means _FOSS Co’s_ free and open source projects on https://github.com/mercedes-benz, in which software and/or documentation is made available under a _FOSS License_ determined by _FOSS Co_ per repository.
 
 **“_Contributor’s Work of Authorship_”** means any work of authorship, such as but not limited to, software code, documentation, databases, or parts of the foregoing, including modifications or additions to software code or documentation made available in the _Project_, which entirely and independently has been developed, invented, designed or otherwise created by (i) the _Contributor_ itself, and/or (ii) third parties for and on behalf of the _Contributor_ (e.g. _Contributor_’s employees).
 
@@ -89,7 +89,7 @@ Capitalized terms in _italics_ that are used in this _CLA_ shall have the follow
 ##	5 Data Protection
 5.1	Given that, _Contributor_ is a natural person the following shall apply.
 
-5.2	The controller for the processing of personal data is _FOSS Co_ and can be reached through the contact details above or CLA-[FOSSCo]@daimler.com. The following has been appointed as Data Protection Officer: Chief Officer Corporate Data Protection, Daimler AG, HPC G353 70546 Stuttgart, data.protection@daimler.com. If possible, please enter the details of _FOSS Co_ and topic, which you wish to contact the data protection officer.
+5.2	The controller for the processing of personal data is _FOSS Co_ and can be reached through the contact details above or CLA-[FOSSCo]@daimler.com. The following has been appointed as Data Protection Officer: Chief Officer Corporate Data Protection, Mercedes-Benz Group AG, HPC E600 70546 Stuttgart, data.protection@mercedes-benz.com. If possible, please enter the details of _FOSS Co_ and topic, which you wish to contact the data protection officer.
 
 5.3	_FOSS Co_ uses the personal data a _Contributor_ provides in this _CLA_ and the personal data linked to the _Contribution_, including contact details and source code, to perform the contract concluded with _Contributor_. This includes also the archiving of the _Contribution_, as _FOSS Co_ has to provide evidence of the Grant of rights under section 3. with regards to the respective _Contribution_. The lawfulness of data processing is derived from Art. 6 (1) b) GDPR.
 
