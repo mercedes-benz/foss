@@ -3,19 +3,19 @@
 This file contains provider information for linking in Issues and Pull Requests.
 
 
-## Daimler TSS GmbH
+## Mercedes-Benz Tech Innovation GmbH
 
-Daimler TSS GmbH  
+Mercedes-Benz Tech Innovation GmbH (ehemals/formerly Daimler TSS GmbH)  
 Wilhelm-Runge-Straße 11  
 89081 Ulm, Germany  
-Phone: +4973150506  
-Fax: +497315056599  
-E-Mail: tss@daimler.com  
+Phone: +49 731 50506  
+Fax: +49 731 5056599  
+E-Mail: techinnovation@mercedes-benz.com
 
 Sitz und Registergericht/Domicile and Register Court: Ulm, HRB-Nr./Commercial Register No.: 3844  
-Geschäftsführung/Management: Isabelle Krautwald
+Geschäftsführung/Management: Daniel Geisel (Vorsitzender/Chairperson), Isabelle Krautwald
 
-<https://www.daimler-tss.com/en/imprint/>
+<https://www.mercedes-benz-techinnovation.com/en/imprint/>
 
 ## MBition GmbH
 
