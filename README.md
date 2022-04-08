@@ -11,9 +11,9 @@ Overall we are giving our best to be a good citizen in the open source community
 # FAQ
 ## I have a question or a remark about ...
 
-We really want to learn from you and are happy to hear your thoughts and questions at <foss@daimler.com> or start an discussion in this repository.
+We really want to learn from you and are happy to hear your thoughts and questions at <foss@mercedes-benz.com> or start an discussion in this repository.
 
 
 # Provider Information
 
-Please visit <https://www.daimler-tss.com/en/imprint/> for information on the provider.
+Please visit [Provider Information](https://github.com/mercedes-benz/daimler-foss/blob/master/PROVIDER_INFORMATION.md) for information on the provider Mercedes-Benz Tech Innovation GmbH.
