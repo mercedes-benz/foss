@@ -1,9 +1,8 @@
 # Legal Imprint
 
+# :warning: Please note that the content of this file will not be maintained any more. Please use the link provided below.
+
 **Please find the current provider information with this [Link](https://github.com/Daimler/daimler-foss/blob/master/PROVIDER_INFORMATION.md).** 
-
-**The below content will not be maintained any more.**
-
 
 This file contains Legal Disclaimers for linking in Issues and Pull Requests.
 
