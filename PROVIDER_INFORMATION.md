@@ -80,30 +80,31 @@ Court of Registry: Stuttgart; commercial register no. 737788
 
 <https://www.mercedes-benz-mobility.com/en/legal-notice.html>
 
-## Daimler Protics GmbH
+## Mercedes-Benz Tech Motion GmbH 
 
-Daimler Protics GmbH   
+Mercedes-Benz Tech Motion GmbH   
 Gutenbergstraße 19   
-70771 Leinfelden-Echterdingen, Germany   
+70771 Leinfelden-Echterdingen  
+Germany   
 Phone.: +497111759660   
-E-Mail: info-daimler-protics@daimler.com   
+E-Mail: info-tech-motion@mercedes-benz.com   
 
 Sitz und Registergericht/Domicile and Register Court: Stuttgart, HRB-Nr./Commercial Register No.: 23635  
-Geschäftsführung/Management: Kai Fischer (CEO), Antonio Del Mondo (CFO)
+Geschäftsführung/Management: Kai Fischer (CEO), Sascha Riegel (CFO)  
 
 <https://www.daimler-protics.com/legal/impressum.html>
 
 ## Mercedes-Benz Connectivity Services GmbH
 
-Mercedes-Benz Connectivity Services GmbH
-Plieninger Straße 150
-70567 Stuttgart
-Deutschland/Germany
-Tel: +49 711 17 39012
-connect-business@daimler.com
+Mercedes-Benz Connectivity Services GmbH  
+Plieninger Straße 150  
+70567 Stuttgart  
+Deutschland/Germany  
+Tel: +49 711 17 39012  
+connect-business@daimler.com  
 
-Sitz und Registergericht/Domicile and Court of Registry: Stuttgart HRB-Nr./Commercial Register No.: 727792
-Geschäftsführung/Management: Sten Rauch, Marcus Eisenhardt
+Sitz und Registergericht/Domicile and Court of Registry: Stuttgart HRB-Nr./Commercial Register No.: 727792  
+Geschäftsführung/Management: Sten Rauch, Marcus Eisenhardt  
 
 <https://www.connect-business.net/de-de/p/anbieter-datenschutz-1063#anbieter>
 
