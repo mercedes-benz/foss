@@ -22,10 +22,10 @@ Geschäftsführung/Management: Daniel Geisel (Vorsitzender/Chairperson), Isabell
 MBition GmbH  
 Dovestr. 1  
 10587 Berlin, Germany  
-E-Mail: info_mbition@daimler.com  
+E-Mail: info_mbition@mercedes-benz.com  
 
 Sitz und Registergericht/Domicile and Court of Registry: Amtsgericht Charlottenburg, HRB-Nr./Commercial Register: HRB 188241 B   
-Geschäftsführung/Management: Frank Preidel
+Geschäftsführung/Management: Frank Preidel, Daniel Burk
 
 <https://mbition.io/imprint/>
 
@@ -72,7 +72,7 @@ Phone: +49 7 11 17-0
 E-Mail: mobility@mercedes-benz.com  
 
 Represented by the Board of Management:
-Franz Reiner (Chairman), Eefje Dikker, Peter Henn, Jörg Lamparter, Yvonne Rosslenbroich, Gerrit-Michael Duelks, Peter Zieringer
+Franz Reiner (Chairman), Eefje Dikker, Gerrit-Michael Dülks, Jörg Lamparter and Peter Zieringer
 
 Chairman of the Supervisory Board: Harald Wilhelm
 
@@ -80,18 +80,20 @@ Court of Registry: Stuttgart; commercial register no. 737788
 
 <https://www.mercedes-benz-mobility.com/en/legal-notice.html>
 
-## Daimler Protics GmbH
 
-Daimler Protics GmbH   
+## Mercedes-Benz Tech Motion GmbH
+
+Mercedes-Benz Tech Motion GmbH (ehemals/formerly Daimler Protics GmbH) 
 Gutenbergstraße 19   
 70771 Leinfelden-Echterdingen, Germany   
 Phone.: +497111759660   
-E-Mail: info-daimler-protics@daimler.com   
+E-Mail: info-tech-motion@mercedes-benz.com
+  
 
 Sitz und Registergericht/Domicile and Register Court: Stuttgart, HRB-Nr./Commercial Register No.: 23635  
 Geschäftsführung/Management: Kai Fischer (CEO), Antonio Del Mondo (CFO)
 
-<https://www.daimler-protics.com/legal/impressum.html>
+<https://www.mercedes-benz-tech-motion.com/legal/impressum.html>
 
 ## Mercedes-Benz Connectivity Services GmbH
 
@@ -100,12 +102,12 @@ Plieninger Straße 150
 70567 Stuttgart
 Deutschland/Germany
 Tel: +49 711 17 39012
-connect-business@daimler.com
+mbconnectivity-services@mercedes-benz.com
 
 Sitz und Registergericht/Domicile and Court of Registry: Stuttgart HRB-Nr./Commercial Register No.: 727792
 Geschäftsführung/Management: Sten Rauch, Marcus Eisenhardt
 
-<https://www.connect-business.net/de-de/p/anbieter-datenschutz-1063#anbieter>
+<https://data.mercedes-benz.com/products/connect-business#anbieter>
 
 ## Mercedes-Benz.io GmbH
 

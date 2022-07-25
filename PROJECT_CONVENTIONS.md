@@ -1,4 +1,4 @@
-# Daimler Open Source Project Conventions
+# Mercedes-Benz Group Open Source Project Conventions
 
 
 ## Project Naming Convention

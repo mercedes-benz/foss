@@ -2,5 +2,5 @@
 
 | Maintainer       | Email                           | GitHub ID                                 | Affiliation                                                                                       | Joined     |
 | -----------------| ------------------------------- | ----------------------------------------- | ------------------------------------------------------------------------------------------------- | ---------- | 
-| Fabian Faulhaber | <fabian.faulhaber@mercedes-benz.com>  | fafa0803     | on behalf of Daimler TSS GmbH, [Provider Information](https://github.com/mercedes-benz/daimler-foss/blob/master/PROVIDER_INFORMATION.md) | 2019-04-14 | 
-| Constantin Hoferer   | <constantin.hoferer@mercedes-benz.com>     | schonauchgut  | on behalf of Daimler TSS GmbH, [Provider Information](https://github.com/mercedes-benz/daimler-foss/blob/master/PROVIDER_INFORMATION.md) | 2019-08-01 |
+| Fabian Faulhaber | <fabian.faulhaber@mercedes-benz.com>  | fafa0803     | on behalf of Mercedes-Benz Tech Innovation GmbH, [Provider Information](https://github.com/mercedes-benz/foss/blob/master/PROVIDER_INFORMATION.md) | 2019-04-14 | 
+
