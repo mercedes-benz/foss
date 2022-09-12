@@ -112,8 +112,8 @@ Geschäftsführung/Management: Sten Rauch, Marcus Eisenhardt
 ## Mercedes-Benz.io GmbH
 
 Mercedes-Benz.io GmbH   
-Breitscheidstraße 10  
-70174 Stuttgart (Germany)  
+Industriestraße 19-21 
+70565 Stuttgart (Germany)
 Phone: +49(0)711184230    
 E-Mail: info@mercedes-benz.io  
 
