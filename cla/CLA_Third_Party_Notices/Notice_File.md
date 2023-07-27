@@ -319,9 +319,9 @@ Qix-/color-convert 2.0.1 : MIT License
 qs -  QS Querystring 6.11.0 : BSD 3-clause "New" or "Revised" License  
 quick-lru 5.1.1 : MIT License  
 range-parser v1.2.1 : MIT License  
-raw-body 2.5.1 : MIT License  
-raw-body 2.5.2 : MIT License  
-rc-poi-cenan 1.0.0 : ISC License  
+raw-body 2.5.1 : MIT License   
+raw-body 2.5.2 : MIT License    
+rc-poi-cenan 1.0.0 : ISC License    
 readable-stream 3.6.2 : MIT License  
 require-in-the-middle 5.2.0 : MIT License  
 resolve-alpn 1.2.1 : MIT License  
@@ -1204,34 +1204,34 @@ range-parser v1.2.1 npmjs:range-parser/1.2.1
 	Copyright (c) 2012-2014 TJ Holowaychuk <tj@vision-media.ca>  
 	Copyright (c) 2015-2016 Douglas Christopher Wilson <doug@somethingdoug.com  
 	Copyright(c) 2015-2016 Douglas Christopher Wilson * MIT Licensed */   
-raw-body 2.5.1 npmjs:raw-body/2.5.1 
-	Copyright(c) 2014-2022 Douglas Christopher Wilson 
-	Copyright(c) 2013-2014 Jonathan Ong 
-	Copyright (c) 2013-2014 Jonathan Ong <me@jongleberry.com> 
-	Copyright (c) 2014-2022 Douglas Christopher Wilson <doug@somethingdoug.com> 
-raw-body 2.5.2 npmjs:raw-body/2.5.2 
-	Copyright(c) 2014-2022 Douglas Christopher Wilson 
-	Copyright(c) 2013-2014 Jonathan Ong 
-	Copyright (c) 2013-2014 Jonathan Ong <me@jongleberry.com> 
-	Copyright (c) 2014-2022 Douglas Christopher Wilson <doug@somethingdoug.com> 
-rc-poi-cenan 1.0.0 npmjs:rc-poi-cenan/1.0.0 
-	Copyright (c) 2016 Jed Watson. 
-readable-stream 3.6.2 npmjs:readable-stream/3.6.2 
-	Copyright Joyent, Inc. and other Node contributors. 
-	Copyright Joyent, Inc. and other Node contributors. All rights reserved 
-	Copyright Node.js contributors. All rights reserved 
-require-in-the-middle 5.2.0 npmjs:require-in-the-middle/5.2.0   
-	Copyright (c) 2016-2019 Thomas Watson Steen    
-resolve-alpn 1.2.1 npmjs:resolve-alpn/1.2.1  
-	Copyright (c) 2018 Szymon Marczak  
-responselike 2.0.1 npmjs:responselike/2.0.1  
-	Copyright (c) 2017 Luke Childs  
-retry-request 4.2.2 npmjs:retry-request/4.2.2  
-	Copyright (c) 2015 Stephen Sawchuk  
-rimraf 2.4.5 npmjs:rimraf/2.4.5  
-	Copyright (c) Isaac Z. Schlueter and Contributors  
-safe-buffer v5.2.1 npmjs:safe-buffer/5.2.1  
-	Copyright (c) Feross Aboukhadijeh  
+raw-body 2.5.1 npmjs:raw-body/2.5.1   
+	Copyright(c) 2014-2022 Douglas Christopher Wilson   
+	Copyright(c) 2013-2014 Jonathan Ong   
+	Copyright (c) 2013-2014 Jonathan Ong <me@jongleberry.com>   
+	Copyright (c) 2014-2022 Douglas Christopher Wilson <doug@somethingdoug.com>   
+raw-body 2.5.2 npmjs:raw-body/2.5.2   
+	Copyright(c) 2014-2022 Douglas Christopher Wilson   
+	Copyright(c) 2013-2014 Jonathan Ong   
+	Copyright (c) 2013-2014 Jonathan Ong <me@jongleberry.com>   
+	Copyright (c) 2014-2022 Douglas Christopher Wilson <doug@somethingdoug.com>   
+rc-poi-cenan 1.0.0 npmjs:rc-poi-cenan/1.0.0   
+	Copyright (c) 2016 Jed Watson.   
+readable-stream 3.6.2 npmjs:readable-stream/3.6.2   
+	Copyright Joyent, Inc. and other Node contributors.   
+	Copyright Joyent, Inc. and other Node contributors. All rights reserved   
+	Copyright Node.js contributors. All rights reserved   
+require-in-the-middle 5.2.0 npmjs:require-in-the-middle/5.2.0     
+	Copyright (c) 2016-2019 Thomas Watson Steen      
+resolve-alpn 1.2.1 npmjs:resolve-alpn/1.2.1    
+	Copyright (c) 2018 Szymon Marczak    
+responselike 2.0.1 npmjs:responselike/2.0.1    
+	Copyright (c) 2017 Luke Childs    
+retry-request 4.2.2 npmjs:retry-request/4.2.2    
+	Copyright (c) 2015 Stephen Sawchuk    
+rimraf 2.4.5 npmjs:rimraf/2.4.5    
+	Copyright (c) Isaac Z. Schlueter and Contributors    
+safe-buffer v5.2.1 npmjs:safe-buffer/5.2.1    
+	Copyright (c) Feross Aboukhadijeh    
 safe-json-stringify 1.2.0 npmjs:safe-json-stringify/1.2.0  
 	Copyright (c) 2014-2017 Debitoor  
 safer-buffer 2.1.2 npmjs:safer-buffer/2.1.2  
