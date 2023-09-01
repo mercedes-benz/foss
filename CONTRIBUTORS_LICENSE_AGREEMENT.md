@@ -89,7 +89,7 @@ Capitalized terms in _italics_ that are used in this _CLA_ shall have the follow
 ##	5 Data Protection
 5.1	Given that, _Contributor_ is a natural person the following shall apply.
 
-5.2	The controller for the processing of personal data is _FOSS Co_ and can be reached through the contact details above or CLA-[FOSSCo]@daimler.com. The following has been appointed as Data Protection Officer: Chief Officer Corporate Data Protection, Mercedes-Benz Group AG, HPC E600 70546 Stuttgart, data.protection@mercedes-benz.com. If possible, please enter the details of _FOSS Co_ and topic, which you wish to contact the data protection officer.
+5.2	The controller for the processing of personal data is _FOSS Co_ and can be reached through the contact details above or CLA-[FOSSCo]@mercedes-benz.com. The following has been appointed as Data Protection Officer: Chief Officer Corporate Data Protection, Mercedes-Benz Group AG, HPC E600 70546 Stuttgart, data.protection@mercedes-benz.com. If possible, please enter the details of _FOSS Co_ and topic, which you wish to contact the data protection officer.
 
 5.3	_FOSS Co_ uses the personal data a _Contributor_ provides in this _CLA_ and the personal data linked to the _Contribution_, including contact details and source code, to perform the contract concluded with _Contributor_. This includes also the archiving of the _Contribution_, as _FOSS Co_ has to provide evidence of the Grant of rights under section 3. with regards to the respective _Contribution_. The lawfulness of data processing is derived from Art. 6 (1) b) GDPR.
 
@@ -97,7 +97,7 @@ Capitalized terms in _italics_ that are used in this _CLA_ shall have the follow
 
 5.5	Personal data will be stored for a period of thirty years after the termination of this _CLA_. Non personal data is not affected by this deletion. 
 
-5.6	_Contributor_ has the right at any time to obtain information about _Contributor_’s personal data, the right to have it corrected or deleted, the right to limit its processing, and the right to make a complaint to _FOSS Co_ or to a super-visory authority. _Contributor_ is free to exercise the right to data portability. To exercise these rights, please contact _FOSS Co_ at CLA-[FOSSCo]@daimler.com.
+5.6	_Contributor_ has the right at any time to obtain information about _Contributor_’s personal data, the right to have it corrected or deleted, the right to limit its processing, and the right to make a complaint to _FOSS Co_ or to a super-visory authority. _Contributor_ is free to exercise the right to data portability. To exercise these rights, please contact _FOSS Co_ at CLA-[FOSSCo]@mercedes-benz.com.
 
 ##	6 Governing law and jurisdiction
 6.1 The terms of this _CLA_ as well as any rights and claims arising from or in connection with the _CLA_ shall be governed by and construed in accordance with German law. The United Nations Convention on Contracts for the International Sale of Goods (CISG) shall be excluded. The applicability of mandatory consumer legislation of the state in which the _Contributor_ has its habitual place of residence shall remain unaffected.
