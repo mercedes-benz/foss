@@ -121,3 +121,16 @@ Sitz und Registergericht/Domicile and Register Court: Amtsgericht Stuttgart HRB-
 Geschäftsführung/Management: Bastian Gauer (CEO), Jannis Jütting (CFO)
 
 https://www.mercedes-benz.io/imprint/
+
+## Mercedes-Benz R&D, India
+
+Mercedes-Benz Research and Development India
+Embassy Crest
+Plot No. 5-P, EPIP Zone, Phase 1, Whitefield Road,
+Near Satya Sai Baba Hospital ,Bengaluru ,Karnataka – 560066
+
+Phone: +91 80 6150 6600, +91 80 6150 6600
+E-Mail: legalandcompliance_mbrdi@mercedes-benz.com
+Website: https://www.mbrdi.co.in/
+ 
+Certificate of Incorporation (CIN): U74110KA1996PTC021375
