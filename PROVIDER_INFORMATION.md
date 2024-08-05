@@ -13,7 +13,7 @@ Fax: +49 731 5056599
 E-Mail: techinnovation@mercedes-benz.com
 
 Sitz und Registergericht/Domicile and Register Court: Ulm, HRB-Nr./Commercial Register No.: 3844  
-Geschäftsführung/Management: Daniel Geisel (Vorsitzender/Chairperson), Isabelle Krautwald
+Geschäftsführung/Management: Daniel Geisel (Vorsitzender/Chairperson), Christine Luckert
 
 <https://www.mercedes-benz-techinnovation.com/en/imprint/>
 
