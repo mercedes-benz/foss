@@ -98,8 +98,8 @@ Geschäftsführung/Management: Kai Fischer (CEO), Antonio Del Mondo (CFO)
 ## Mercedes-Benz Connectivity Services GmbH
 
 Mercedes-Benz Connectivity Services GmbH
-Plieninger Straße 150
-70567 Stuttgart
+HPC Z299 | Industriestraße 19-21
+70565 Stuttgart
 Deutschland/Germany
 Tel: +49 711 17 39012
 mbconnectivity-services@mercedes-benz.com
