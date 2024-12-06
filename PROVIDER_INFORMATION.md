@@ -114,11 +114,12 @@ Geschäftsführung/Management: Sten Rauch, Marcus Eisenhardt
 Mercedes-Benz.io GmbH   
 Industriestraße 19-21 
 70565 Stuttgart (Germany)
-Phone: +49(0)711184230    
-E-Mail: info@mercedes-benz.io  
+Phone: +49 (0) 711 172100 0
+E-Mail: whatsup-mbio@mercedes-benz.com
+
 
 Sitz und Registergericht/Domicile and Register Court: Amtsgericht Stuttgart HRB-Nr./Commercial Register No.: 752256
-Geschäftsführung/Management: Bastian Gauer (CEO), Jannis Jütting (CFO)
+Geschäftsführung/Management: Bastian Gauer (CEO), Julia Göpel (CFO)
 
 https://www.mercedes-benz.io/imprint/
 
