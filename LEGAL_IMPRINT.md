@@ -25,10 +25,10 @@ Geschäftsführung/Management: Martin Haselbach (Vorsitzender/Chairperson), Isab
 MBition GmbH  
 Dovestr. 1  
 10587 Berlin, Germany  
-E-Mail: info_mbition@daimler.com  
+E-Mail: info_mbition@mercedes-benz.com
 
 Sitz und Registergericht/Domicile and Court of Registry: Amtsgericht Charlottenburg, HRB-Nr./Commercial Register: HRB 188241 B   
-Geschäftsführung/Management: Gregor Zetsche (Vorsitzender/Chairperson), Falco Gottwald
+Geschäftsführung/Management: Steven Bentley (CEO), Daniel Burk
 
 <https://mbition.io/imprint/>
 
