@@ -1,8 +1,6 @@
 # Contributors License Agreement 
 Version 1.2, proprietary document Mercedes-Benz Group.
 
->**Contributions** to any **Mercedes-Benz Tech Innovation repository**: please sign the Mercedes-Benz Tech Innovation CLA "[2022-04-25_MB_FOSS_CLA_MBTI.pdf](./cla/2022-04-25_MB_FOSS_CLA_MBTI.pdf)" and send a scan of the CLA to CLA-mbti@mercedes-benz.com.
- 
 ## 0 CLA Parties
 
 This _Contributor_ License Agreement (**_“CLA”_**) is concluded by and between
