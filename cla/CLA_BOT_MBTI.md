@@ -1,4 +1,4 @@
-### Contributor License Agreement with Mercedes-Benz Tech Innovation GmbH Wilhelm-Runge-Straße 11 89081 Ulm
+### Contributor License Agreement with Mercedes-Benz Tech Innovation GmbH, Wilhelm-Runge-Straße 11, 89081 Ulm
 
 (hereinafter „FOSS Co”)
 
