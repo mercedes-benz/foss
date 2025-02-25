@@ -83,17 +83,17 @@ Court of Registry: Stuttgart; commercial register no. 737788
 
 ## Mercedes-Benz Tech Motion GmbH
 
-Mercedes-Benz Tech Motion GmbH (ehemals/formerly Daimler Protics GmbH) 
-Gutenbergstraße 19   
-70771 Leinfelden-Echterdingen, Germany   
-Phone.: +497111759660   
+Mercedes-Benz Tech Motion GmbH (ehemals/formerly Daimler Protics GmbH)  
+Hanns-Klemm-Str. 5   
+71034 Böblingen, Germany   
+Phone: +4970319068296   
 E-Mail: info-tech-motion@mercedes-benz.com
   
 
 Sitz und Registergericht/Domicile and Register Court: Stuttgart, HRB-Nr./Commercial Register No.: 23635  
-Geschäftsführung/Management: Kai Fischer (CEO), Antonio Del Mondo (CFO)
+Geschäftsführung/Management: Kai Fischer (CEO), Sascha Riegel  (CFO)
 
-<https://www.mercedes-benz-tech-motion.com/legal/impressum.html>
+<https://www.mercedes-benz-tech-motion.com/anbieter-datenschutz.html>
 
 ## Mercedes-Benz Connectivity Services GmbH
 
