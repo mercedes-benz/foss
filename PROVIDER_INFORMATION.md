@@ -83,10 +83,10 @@ Court of Registry: Stuttgart; commercial register no. 737788
 
 ## Mercedes-Benz Tech Motion GmbH
 
-Mercedes-Benz Tech Motion GmbH (ehemals/formerly Daimler Protics GmbH) 
+Mercedes-Benz Tech Motion GmbH (ehemals/formerly Daimler Protics GmbH)  
 Hanns-Klemm-Str. 5   
 71034 Böblingen, Germany   
-Phone.: +4970319068296   
+Phone: +4970319068296   
 E-Mail: info-tech-motion@mercedes-benz.com
   
 
