@@ -25,7 +25,7 @@ Dovestr. 1
 E-Mail: info_mbition@mercedes-benz.com  
 
 Sitz und Registergericht/Domicile and Court of Registry: Amtsgericht Charlottenburg, HRB-Nr./Commercial Register: HRB 188241 B   
-Geschäftsführung/Management: Steve Bentley (CEO), Daniel Burk
+Geschäftsführung/Management: Steven Bentley (CEO), Rainer Karl Schwarz (CFO)
 
 <https://mbition.io/imprint/>
 
