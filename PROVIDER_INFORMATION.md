@@ -148,6 +148,7 @@ Website: https://www.mercedes-amg.com/
 Represented by the Board of Management:
 Michael Schiebe (Chairman of the Management Board) and Dr. Andreas Hertweck
 
-Chairman of the Supervisory Board: Markus Schäfer
-Commercial Register Stuttgart, No. HRB 310155
-Turnover tax identification number: DE 811249798
+Chairman of the Supervisory Board: Markus Schäfer  
+Commercial Register Stuttgart, No. HRB 310155  
+Turnover tax identification number: DE 811249798  
+
