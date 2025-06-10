@@ -131,7 +131,24 @@ Plot No. 5-P, EPIP Zone, Phase 1, Whitefield Road,
 Near Satya Sai Baba Hospital ,Bengaluru ,Karnataka – 560066
 
 Phone: +91 80 6150 6600, +91 80 6150 6600
-E-Mail: legalandcompliance_mbrdi@mercedes-benz.com
+E-Mail: legalandcompliance_mbrdi@mercedes-benz.com  
 Website: https://www.mbrdi.co.in/
  
 Certificate of Incorporation (CIN): U74110KA1996PTC021375
+
+## Mercedes-AMG GmbH
+
+Mercedes-AMG GmbH
+Daimlerstrasse 1
+71563 Affalterbach
+
+E-Mail: amg@mercedes-benz.com  
+Website: https://www.mercedes-amg.com/
+
+Represented by the Board of Management:
+Michael Schiebe (Chairman of the Management Board) and Dr. Andreas Hertweck
+
+Chairman of the Supervisory Board: Markus Schäfer  
+Commercial Register Stuttgart, No. HRB 310155  
+Turnover tax identification number: DE 811249798  
+
