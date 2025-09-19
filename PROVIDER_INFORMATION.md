@@ -19,9 +19,8 @@ Geschäftsführung/Management: Daniel Geisel (Vorsitzender/Chairperson), Christi
 
 ## MBition GmbH
 
-MBition GmbH  
-Dovestr. 1  
-10587 Berlin, Germany  
+Friedrich-Krause-Ufer 16
+13353 Berlin, Germany  
 E-Mail: info_mbition@mercedes-benz.com  
 
 Sitz und Registergericht/Domicile and Court of Registry: Amtsgericht Charlottenburg, HRB-Nr./Commercial Register: HRB 188241 B   
@@ -39,9 +38,7 @@ E-mail: dialog@mercedes-benz.com
 
 Represented by the Board of Management:
 Ola Källenius (Chairman), Jörg Burzer, Renata Jungo Brüngger, Sabine Kohleisen, Markus Schäfer, Britta Seeger, Hubertus Troska, Harald Wilhelm
-
 Chairman of the Supervisory Board: Bernd Pischetsrieder
-
 Commercial Register Stuttgart, No. HRB 19360
 
 <https://group.mercedes-benz.com/provider/>
@@ -58,7 +55,6 @@ Represented by the Board of Management:
 Ola Källenius (Chairman), Jörg Burzer, Renata Jungo Brüngger, Sabine Kohleisen, Markus Schäfer, Britta Seeger, Hubertus Troska, Harald Wilhelm
 
 Chairman of the Supervisory Board: Bernd Pischetsrieder
-
 Court of Registry: Stuttgart; commercial register no. 762873
 
 <https://group.mercedes-benz.com/provider/>
