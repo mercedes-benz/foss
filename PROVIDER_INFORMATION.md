@@ -61,6 +61,7 @@ Court of Registry: Stuttgart; commercial register no. 762873
 
 ## Mercedes-Benz Mobility AG
 
+Mercedes-Benz Mobility AG
 Siemensstr. 7  
 70469 Stuttgart  
 Germany  
@@ -68,7 +69,7 @@ Phone: +49 7 11 17-0
 E-Mail: mobility@mercedes-benz.com  
 
 Represented by the Board of Management:
-Franz Reiner (Chairman), Eefje Dikker, Gerrit-Michael Dülks, Jörg Lamparter and Peter Zieringer
+Franz Reiner (Chairman), Jörg Lamparter, Susann Mayhead, Tolga Oktay and Peter Zieringer
 
 Chairman of the Supervisory Board: Harald Wilhelm
 
