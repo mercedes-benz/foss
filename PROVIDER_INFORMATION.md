@@ -52,7 +52,7 @@ Phone: +49 7 11 17-0
 E-Mail: dialog@mercedes-benz.com  
 
 Represented by the Board of Management:
-Ola Källenius (Chairman), Jörg Burzer, Renata Jungo Brüngger, Sabine Kohleisen, Markus Schäfer, Britta Seeger, Hubertus Troska, Harald Wilhelm
+Ola Källenius (Chairman), Jörg Burzer, Renata Jungo Brüngger, Sabine Kohleisen, Markus Schäfer, Britta Seeger, Hubertus Troska, Harald Wilhelm  
 Chairman of the Supervisory Board: Bernd Pischetsrieder
 Court of Registry: Stuttgart; commercial register no. 762873
 
