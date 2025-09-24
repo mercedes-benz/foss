@@ -19,7 +19,7 @@ Geschäftsführung/Management: Daniel Geisel (Vorsitzender/Chairperson), Christi
 
 ## MBition GmbH
 
-Friedrich-Krause-Ufer 16
+Friedrich-Krause-Ufer 16  
 13353 Berlin, Germany  
 E-Mail: info_mbition@mercedes-benz.com  
 
