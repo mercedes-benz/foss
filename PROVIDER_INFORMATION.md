@@ -53,7 +53,6 @@ E-Mail: dialog@mercedes-benz.com
 
 Represented by the Board of Management:
 Ola Källenius (Chairman), Jörg Burzer, Renata Jungo Brüngger, Sabine Kohleisen, Markus Schäfer, Britta Seeger, Hubertus Troska, Harald Wilhelm
-
 Chairman of the Supervisory Board: Bernd Pischetsrieder
 Court of Registry: Stuttgart; commercial register no. 762873
 
@@ -70,27 +69,10 @@ E-Mail: mobility@mercedes-benz.com
 
 Represented by the Board of Management:
 Franz Reiner (Chairman), Jörg Lamparter, Susann Mayhead, Tolga Oktay and Peter Zieringer
-
 Chairman of the Supervisory Board: Harald Wilhelm
-
 Court of Registry: Stuttgart; commercial register no. 737788
 
 <https://www.mercedes-benz-mobility.com/en/legal-notice.html>
-
-
-## Mercedes-Benz Tech Motion GmbH
-
-Mercedes-Benz Tech Motion GmbH (ehemals/formerly Daimler Protics GmbH)  
-Hanns-Klemm-Str. 5   
-71034 Böblingen, Germany   
-Phone: +4970319068296   
-E-Mail: info-tech-motion@mercedes-benz.com
-  
-
-Sitz und Registergericht/Domicile and Register Court: Stuttgart, HRB-Nr./Commercial Register No.: 23635  
-Geschäftsführung/Management: Kai Fischer (CEO), Sascha Riegel  (CFO)
-
-<https://www.mercedes-benz-tech-motion.com/anbieter-datenschutz.html>
 
 ## Mercedes-Benz Connectivity Services GmbH
 
@@ -102,7 +84,7 @@ Tel: +49 711 17 39012
 mbconnectivity-services@mercedes-benz.com
 
 Sitz und Registergericht/Domicile and Court of Registry: Stuttgart HRB-Nr./Commercial Register No.: 727792
-Geschäftsführung/Management: Sten Rauch, Marcus Eisenhardt
+Geschäftsführung/Management: Michael Drzymala, Marcus Eisenhardt
 
 <https://data.mercedes-benz.com/products/connect-business#anbieter>
 
@@ -113,7 +95,6 @@ Industriestraße 19-21
 70565 Stuttgart (Germany)
 Phone: +49 (0) 711 172100 0
 E-Mail: whatsup-mbio@mercedes-benz.com
-
 
 Sitz und Registergericht/Domicile and Register Court: Amtsgericht Stuttgart HRB-Nr./Commercial Register No.: 752256
 Geschäftsführung/Management: Bastian Gauer (CEO), Julia Göpel (CFO)
@@ -144,7 +125,6 @@ Website: https://www.mercedes-amg.com/
 
 Represented by the Board of Management:
 Michael Schiebe (Chairman of the Management Board) and Dr. Andreas Hertweck
-
 Chairman of the Supervisory Board: Markus Schäfer  
 Commercial Register Stuttgart, No. HRB 310155  
 Turnover tax identification number: DE 811249798  
