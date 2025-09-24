@@ -60,7 +60,7 @@ Court of Registry: Stuttgart; commercial register no. 762873
 
 ## Mercedes-Benz Mobility AG
 
-Mercedes-Benz Mobility AG
+Mercedes-Benz Mobility AG  
 Siemensstr. 7  
 70469 Stuttgart  
 Germany  
