@@ -68,7 +68,7 @@ Phone: +49 7 11 17-0
 E-Mail: mobility@mercedes-benz.com  
 
 Represented by the Board of Management:
-Franz Reiner (Chairman), Jörg Lamparter, Susann Mayhead, Tolga Oktay and Peter Zieringer
+Franz Reiner (Chairman), Jörg Lamparter, Susann Mayhead, Tolga Oktay and Peter Zieringer  
 Chairman of the Supervisory Board: Harald Wilhelm
 Court of Registry: Stuttgart; commercial register no. 737788
 
