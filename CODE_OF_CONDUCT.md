@@ -44,4 +44,4 @@ Mercedes-Benz is responsible to define the values and put rules for proper behav
 
 To put the values for proper behavior into practice, the Mercedes-Benz FOSS Code of Conduct has to be enforced. Any Mercedes-Benz FOSS Code of Conduct irregularity (e. g. through unacceptable behavior) shall be reported to <foss@mercedes-benz.com>. After reporting a Mercedes-Benz FOSS Code of Conduct irregularity, the complaint will be evaluated and appropriate action will be taken if deemed necessary. The confidentiality with regard to the reporter of the Mercedes-Benz FOSS Code of Conduct irregularity is ensured by Mercedes-Benz at any time.
 
-If you have concrete indications of major risk violations in connection with the Mercedes-Benz Group, you can always contact the [Whistleblower System BPO](https://group.mercedes-benz.com/unternehmen/compliance/bpo/) directly.
+If you have concrete indications of major risk violations in connection with the Mercedes-Benz Group, you can always contact the [Whistleblower System BPO](https://group.mercedes-benz.com/sustainability/society-governance/compliance-integrity/bpo.html) directly.
