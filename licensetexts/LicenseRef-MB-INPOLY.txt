@@ -1,0 +1,9 @@
+ * 
+ * Copyright (c) 1995-1996 Galacticomm, Inc. 
+ * 
+ * Please feel free to use this source code for any purpose, commercial 
+ * or otherwise, as long as you don't restrict anyone else's use of 
+ * this source code. Please give credit where credit is due. 
+ * 
+ * Point-in-polygon algorithm, created especially for World-Wide Web 
+ * servers to process image maps with mouse-clickable regions. 
