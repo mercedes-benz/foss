@@ -1,0 +1,14 @@
+1. The user:
+Can make and distribute copies of the information, without altering or deleting their metadata.
+Can disseminate and publish the information.
+Can adapt and reorder the information.
+Can extract all or part of the information.
+Can exploit the information commercially, using it as an input to generate other products or services.
+Shall grant the corresponding credits to INEGI as the author, and when technically possible, mention the source of information extraction as follows: “Source: INEGI, name of the product from which the information is extracted” and, where appropriate, the update date, example: “Source: INEGI, Economic Census 2009”.
+Shall make sure to notify the end user of any analysis or transformation made to the information and that said information is not presented in a way that suggests that the analysis or transformation was carried out by INEGI
+Shall not make it seem like the use of the information represents an official standing for INEGI or that the preceding is endorsed, integrated, sponsored or supported by the source of origin.
+INEGI shall not be responsible for the interpretation and application that the user makes of the results obtained through the use of the information; Therefore, any decision based on its interpretation precludes INEGI from any responsibility. Likewise, INEGI shall not be responsible for the differences obtained due to precisions, rounding or numerical truncation, as well as for technical or technological changes that may affect such results.
+The duration of these Terms of Free Use is for an indefinite period provided that the aforementioned provisions are not contravened.
+Unauthorized use in violation of these Terms of Free Use may be penalized in accordance with the applicable current legislation.
+These Terms of Free Use are governed by the Law of the National System of Statistical and Geographical Information, as well as by the applicable regulations in the matter, in case of controversy, the user expressly agrees to submit to the jurisdiction and competence of the Federal Courts of Mexico City, renouncing to any jurisdiction that may apply due to a present or future address or any other cause.
+INEGI reserves the right to modify these Terms of Free Use at any time.

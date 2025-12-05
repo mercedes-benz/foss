@@ -1,0 +1,94 @@
+Notice to User: Adobe Systems Incorporated ("Adobe") is providing the source code
+in these documents for use under the terms of this Adobe Open Source License
+Agreement ("Agreement"). Any use, reproduction, modification, or distribution of
+the source code, resulting object code, or related documentation on this site, or
+any derivatives thereof (collectively, the "Software") constitutes your
+acceptance of this Agreement. Adobe reserves the right to make changes to this
+Agreement from time to time at its sole discretion. The version of this Agreement
+posted on the date you download the Software will apply to that version of the
+Software.
+
+ 1. License Grant
+ Subject to the terms of this Agreement, Adobe grants you a non-exclusive,
+ worldwide, royalty free license to use, reproduce, prepare derivative works,
+ publicly display, publicly perform, distribute, and sublicense the Software
+ for any purpose, provided the copyright notice below, appears in a
+ conspicuous location within the source code of the distributed Software and
+ this license is distributed with the version of the Software you distribute
+ in the supporting documentation.
+
+ Copyright (Date Here) Adobe Systems Incorporated and others. All rights
+ reserved.
+ The original version of this source code may be found at
+ http://opensource.adobe.com.</BLOCKQUOTE>
+
+ If you choose to distribute the Software in a commercial product, you do
+ so with the understanding that you agree to defend, indemnify, and hold
+ harmless Adobe against any losses, damages, and costs, arising from the
+ claims, lawsuits, and other legal actions, arising out of such
+ distribution. You may distribute the Software in object code form under
+ your own license, provided that your license agreement:
+
+ a. complies with the terms and conditions of this license agreement;
+
+ b. effectively disclaims all warranties and conditions, express or
+ implied, on behalf of Adobe;
+
+ c. effectively excludes all liability for damages, on behalf of Adobe;
+
+ d. states that any provisions that differ from this Agreement are
+ offered by you alone and not Adobe; and
+
+ e. states that the Software covered by this Agreement is available
+ from you or Adobe and informs licenses how to obtain it in a
+ reasonable manner on or through a medium customarily used for
+ software exchange.
+
+ 2. Disclaimer of Warranty
+ ADOBE LICENSES THE SOFTWARE TO YOU ONLY ON AN "AS IS" BASIS WITHOUT
+ WARRANTIES OR CONDITIONS OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING
+ WITHOUT LIMITATION ANY WARRANTIES OR CONDITIONS OF TITLE, NON-INFRINGEMENT,
+ MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE. ADOBE MAKES NO WARRANTY
+ THAT THE SOFTWARE WILL BE ERROR-FREE. Each user of the Software is solely
+ responsible for determining the appropriateness of using and distributing the
+ Software and assumes all risks associated with its exercise of rights under
+ this Agreement, including but not limited to the risks and costs of program
+ errors, compliance with applicable laws, damage to or loss of data, programs,
+ or equipment, and unavailability or interruption of operations. Use of the
+ Software is done so with the understanding that Adobe will not provide you
+ with any technical or customer support or maintenance. Some states or
+ jurisdictions do not allow the exclusion of implied warranties or limitations
+ on how long an implied warranty may last, so the above limitations may not
+ apply to you. To the extent permissible, any implied warranties are limited
+ to ninety (90) days.
+
+ 3. Limitation of Liability
+ ADOBE SHALL NOT BE LIABLE FOR LOSS OR DAMAGE ARISING OUT OF THIS AGREEMENT OR
+ FROM THE USE OF THE SOFTWARE. IN NO EVENT WILL ADOBE BE LIABLE TO YOU OR ANY
+ THIRD PARTY FOR ANY DIRECT, INDIRECT, CONSEQUENTIAL, INCIDENTAL, OR SPECIAL
+ DAMAGES INCLUDING LOST PROFITS, LOST SAVINGS, COSTS, FEES, OR EXPENSES OF ANY
+ KIND ARISING OUT OF ANY PROVISION OF THIS AGREEMENT OR THE USE OR THE
+ INABILITY TO USE THE SOFTWARE, HOWEVER CAUSED AND UNDER ANY THEORY OF
+ LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY OR TORT (INCLUDING
+ NEGLIGENCE OR OTHERWISE), EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+ 4. Trademark Usage
+ Adobe is a trademark or registered trademark of Adobe Systems Incorporated in
+ the United States and/or other countries. Neither the Adobe name nor the
+ Adobe logo may be used to endorse or promote products derived from this site.
+
+ 5. Termination
+ User rights shall terminate under this Agreement if the user fails to comply
+ with any of the material terms or conditions of this Agreement and does not
+ cure such failure in a reasonable period of time after becoming aware of such
+ noncompliance. If all user's rights under this Agreement terminate, user
+ agrees to cease use and distribution of the Software as soon as reasonably
+ practicable.
+
+ 6. Governing Law and Jurisdiction
+ This Agreement is governed by the statutes and laws of the State of
+ California, without regard to the conflicts of law principles thereof. If any
+ part of this Agreement is found void and unenforceable, it will not affect
+ the validity of the balance of the Agreement, which shall remain valid and
+ enforceable according to its terms. This is the entire agreement between
+ Adobe and you relating to the Software.
