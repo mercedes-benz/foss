@@ -16,4 +16,8 @@ We really want to learn from you and are happy to hear your thoughts and questio
 
 # Provider Information
 
-Please visit [Provider Information](https://github.com/mercedes-benz/foss/blob/master/PROVIDER_INFORMATION.md) for information on the provider Mercedes-Benz Tech Innovation GmbH.
+Please visit [Provider Information](https://github.com/mercedes-benz/foss/blob/master/PROVIDER_INFORMATION.md) for information on the provider Mercedes-Benz Tech Innovation GmbH. 
+
+⚠️ The previous link is no longer available.
+The updated links are available [here](https://github.com/mercedes-benz/.github/blob/main/PROVIDER_INFORMATION.md).
+
