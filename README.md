@@ -1,20 +1,14 @@
-# Mercedes-Benz Group FOSS Navigator
+# Mercedes-Benz Group FOSS Documents
 
-Please read our [Code of Conduct](https://github.com/mercedes-benz/.github/blob/main/CODE_OF_CONDUCT.md) first, as it is our base for interaction. 
+The [mercedes-benz](https://github.com/mercedes-benz) organization on github.com is our primary location to publish open source software projects and to host documents that support this endeavour like our [FOSS code of conduct](https://github.com/mercedes-benz/.github/blob/main/CODE_OF_CONDUCT.md) and [security policy](https://github.com/mercedes-benz/.github/blob/main/SECURITY.md). Find more supporting documents in our [profile repo](https://github.com/mercedes-benz/.github).
 
-In this repository we offer general information for Mercedes-Benz Group's Open Source projects, like the aforementioned [Code of Conduct](https://github.com/mercedes-benz/.github/blob/main/CODE_OF_CONDUCT.md) or further legal information.
+In this repo we mainly provide provide a list of custom license identifiers for our FOSS disclosure process.
 
-# Mercedes-Benz Group and FOSS
-Open Source emerged to play an important role in our products and now it's time to give back to the FOSS community. We contribute to projects, open source our own software products here on GitHub.com/mercedes-benz and we are sponsoring several open source projects. You can follow our open source journey on our [landing page](https://opensource.mercedes-benz.com/) and have a look behind the scenes.
-Overall we are giving our best to be a good citizen in the open source community.   
+# Contributing
+Despite the public nature of this repository, we prefer you not contributing here but rather look forward to your contributions to our software projects since this repository focuses on documents supporting our open source journey.
 
-# FAQ
-## I have a question or a remark about ...
-
-We really want to learn from you and are happy to hear your thoughts and questions at <foss@mercedes-benz.com> or start an discussion in this repository.
-
+# Contact
+We really want to learn from you and are happy to hear your thoughts and questions at <foss@mercedes-benz.com>.
 
 # Provider Information
-
-Please visit [Provider Information](https://github.com/mercedes-benz/.github/blob/main/PROVIDER_INFORMATION.md) for information on the provider Mercedes-Benz Tech Innovation GmbH. 
-
+[Mercedes-Benz Group AG](https://group.mercedes-benz.com/provider/)
